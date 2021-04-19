@@ -1,7 +1,7 @@
 # collatz_conjecture
 
 ## scenario
-**Lothar Collatz** was a German mathematician who worked in numerical analysis and is best known for the ```__eponymous "3x + 1 problem"__```.
+**Lothar Collatz** was a German mathematician who worked in numerical analysis and is best known for the __```eponymous "3x + 1 problem"```__.
 
 In 1937, he formulated an intriguing hypothesis (it still remains unproven) which can be described in the following way:
 
