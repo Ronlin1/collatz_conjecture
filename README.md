@@ -2,7 +2,7 @@
 
 ## scenario
 **Lothar Collatz** was a German mathematician who worked in numerical analysis and is best known for the __eponymous "3x + 1 problem"__.
-Scenario
+
 In 1937, he formulated an intriguing hypothesis (it still remains unproven) which can be described in the following way:
 
 * take any non-negative and non-zero integer number and name it c0;
