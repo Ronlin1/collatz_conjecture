@@ -1,7 +1,7 @@
 # collatz_conjecture
 
 ## scenario
-**Lothar Collatz** was a German mathematician who worked in numerical analysis and is best known for the __eponymous "3x + 1 problem"__.
+**Lothar Collatz** was a German mathematician who worked in numerical analysis and is best known for the ```__eponymous "3x + 1 problem"__```.
 
 In 1937, he formulated an intriguing hypothesis (it still remains unproven) which can be described in the following way:
 
@@ -14,4 +14,4 @@ The hypothesis says that regardless of the initial value of ```c0```, it will al
 Of course, it's an extremely complex task to use a computer in order to prove the hypothesis for any natural number (it may even require artificial intelligence), but you can use Python to check some individual numbers. Maybe you'll even find the one which would disprove the hypothesis.
 
 
-Write a program which reads one natural number and executes the above steps as long as c0 remains different from 1. We also want you to count the steps needed to achieve the goal. Your code should output all the intermediate values of c0, too.
+Write a program which reads one natural number and executes the above steps as long as c0 remains different from 1. We also want you to count the steps needed to achieve the goal. Your code should output all the intermediate values of ```c0```, too.
